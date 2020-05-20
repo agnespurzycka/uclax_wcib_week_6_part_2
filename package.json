@@ -1,7 +1,7 @@
 {
-  "name": "uclax_wcib_week_6_part_1",
+  "name": "uclax_wcib_week_6_part_2",
   "version": "1.0.0",
-  "description": "UCLAx Web Coding Intensive Bootcamp week 6, part 1 project files.",
+  "description": "UCLAx Web Coding Intensive Bootcamp week 6, part 2 project files.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
