@@ -1,0 +1,113 @@
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+
+body {
+  background-color: black;
+  background: url('../image/star.jpg');
+}
+
+.img-fluid {
+  border-radius: 300px 30px 300px 300px;
+  margin-top: 20px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #e23455;
+    border-color: #e23455;
+    margin-top: 20px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: #e23455;
+    border-color: #e23455;
+    box-shadow: 0 0 0 0.2rem rgb(238, 238, 238);
+
+
+}
+
+element.style {
+}
+
+.h2, h2 {
+    font-size: 2rem;
+    color:#e23455;
+    font-family: "Champagne & Limousines";
+    font-weight: bold;
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: #e23455;
+}
+
+  p1 {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  font-family: "Gill Sans";
+  font-size: 120%;
+  font-weight: 400;
+
+
+
+ }
+
+ p2 {
+   color: white;
+   text-shadow: 2px 2px 2px black;
+   font-family: "Gill Sans";
+   font-size: 120%;
+   font-weight: 400;
+}
+
+ p3 {
+   color: white;
+   text-shadow: 2px 2px 2px black;
+   font-family: "Gill Sans";
+   font-size: 120%;
+   font-weight: 400;
+}
+
+.h5, h5 {
+    font-size: 1.25rem;
+    text-shadow: 2px 2px 2px black;
+    font-family: "Champagne & Limousines";
+    font-weight: bold;
+    font-size: 180%;
+}
+
+.modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: white;
+    opacity: 90%;
+    background-clip: padding-box;
+    border: 3px solid rgba(0,0,0,.2);
+    border-color: white;
+    border-radius: 30px 30px 1px 1px;
+    outline: 0;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+
+}
+
+user agent stylesheet
+div {
+    display: block;
+
+}
