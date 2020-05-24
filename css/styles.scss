@@ -20,6 +20,7 @@ body {
     background-color: #e23455;
     border-color: #e23455;
     margin-top: 20px;
+    font-family: "Champagne & Limousines"
 }
 
 .btn-primary.focus, .btn-primary:focus {
@@ -36,7 +37,8 @@ element.style {
 
 .h2, h2 {
     font-size: 2rem;
-    color:#e23455;
+    color:white;
+    text-shadow: 2px 1px 2px black;
     font-family: "Champagne & Limousines";
     font-weight: bold;
   }
@@ -46,7 +48,11 @@ element.style {
     margin-bottom: 1rem;
     margin-left: 2rem;
     margin-right: 2rem;
-    color: #e23455;
+    color: white;
+    text-shadow: 2px 1px 3px black;
+    font-family: "Gill Sans";
+    font-size: 200%;
+
 }
 
   p1 {
@@ -93,7 +99,7 @@ element.style {
     width: 100%;
     pointer-events: auto;
     background-color: white;
-    opacity: 90%;
+    opacity: 100%;
     background-clip: padding-box;
     border: 3px solid rgba(0,0,0,.2);
     border-color: white;
